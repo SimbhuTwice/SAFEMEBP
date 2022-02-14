@@ -1,26 +1,26 @@
-S No,Block,TaskID,Category ,Submitter,Status ,Responsibilty,Completed On,Comments, Amount ,Payment Status,Service Type 
-1,B BLOCK,1001,Complaint,Manju,In Progress,Shiva,12/02/22,Service Engineer on Premises,0,AMC,CCTV
-2,C1 BLOCK,1002,Complaint,Manju,In Progress,Mohiddin,12/02/22,Service Engineer on Premises,0,AMC,CCTV
-3,C1 BLOCK,1003,Complaint,NandaKumar,Completed,Mohiddin,17/01/22,Completed the AMC Service,0,AMC,FireFighting
-4,C1 BLOCK,1004,Complaint,NandaKumar,Completed,Mohiddin,17/01/22,Completed the AMC Service,0,AMC,FireFighting
-5,C1 BLOCK,1005,Complaint,NandaKumar,Completed,Mohiddin,17/01/22,Completed the AMC Service,0,AMC,FireFighting
-6,C1 BLOCK,1006,Complaint,NandaKumar,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,FireFighting
-7,C1 BLOCK,1007,Complaint,NandaKumar,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,FireFighting
-8,C1 BLOCK,1008,AMC,Ravi,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,FireFighting
-9,COMMON AREA,1009,AMC,Ravi,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,FireFighting
-10,L1 BLOCK,1010,AMC,Anand,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,FireFighting
-11,K BLOCK,1011,AMC,Sudeep,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,AccessControl
-12,COMMON AREA,1012,AMC,Sudeep,Pending,Mohiddin,18/01/22,Need Replacement,0,AMC,AccessControl
-13,COMMON AREA,1013,AMC,Satish,Completed,Mohiddin,18/01/22,Completed the AMC Service,0,AMC,AccessControl
-14,COMMON AREA,1014,AMC,Satish,Completed,Shiva,19/01/22,Completed the AMC Service,0,AMC,FireFighting
-15,COMMON AREA,1015,AMC,Satish,Completed,Shiva,19/01/22,Completed the AMC Service,0,AMC,FireFighting
-16,COMMON AREA,1016,AMC,Satish,Completed,Shiva,19/01/22,Completed the AMC Service with Replacement,1000,Received ,FireFighting
-17,COMMON AREA,1017,AMC,Satish,Completed,Shiva,20/01/22,Completed the AMC Service,0,AMC,AccessControl
-18,COMMON AREA,1018,AMC,Balakrishna,Completed,Shiva,20/01/22,Completed the AMC Service,0,AMC,AccessControl
-19,COMMON AREA,1019,AMC,Balakrishna,Completed,Shiva,20/01/22,Completed the AMC Service,0,AMC,AccessControl
-20,A BLOCK,1020,AMC,Balakrishna,Completed,Shiva,20/01/22,Completed the AMC Service,0,AMC,AccessControl
-21,A BLOCK,1021,AMC,Balakrishna,Completed,Shiva,20/01/22,Completed the AMC Service with Replacement,1859,Received ,AccessControl
-22,A BLOCK,1022,AMC,Balakrishna,Completed,Shiva,20/01/22,Completed the AMC Service with Replacement,1000,Received ,AccessControl
-23,C4 COMMAND CENTER,1023,AMC,Balakrishna,Completed,Shiva,21/01/22,Completed the AMC Service,0,AMC,FireAlarm
-24,C4 COMMAND CENTER,1024,AMC,Balakrishna,Completed,Shiva,22/01/22,Completed the AMC Service,0,AMC,FireAlarm
-25,C4 COMMAND CENTER,1025,AMC,Balakrishna,Completed,Shiva,22/01/22,Completed the AMC Service,0,AMC,FireAlarm
+S No,Block,TaskID,System Type ,Creator,Status ,Responsibilty,Created On,Comments
+1,B BLOCK,1001,CCTV,Manju,OPEN,Shiva,12/02/22,Service Engineer on Premises
+2,C1 BLOCK,1002,CCTV,Manju,OPEN,Mohiddin,12/02/22,Service Engineer on Premises
+3,C1 BLOCK,1003,FireFighting,NandaKumar,CLOSED,Mohiddin,17/01/22,Completed the AMC Service
+4,C1 BLOCK,1004,FireFighting,NandaKumar,CLOSED,Mohiddin,17/01/22,Completed the AMC Service
+5,C1 BLOCK,1005,FireFighting,NandaKumar,CLOSED,Mohiddin,17/01/22,Completed the AMC Service
+6,C1 BLOCK,1006,FireFighting,NandaKumar,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+7,C1 BLOCK,1007,FireFighting,NandaKumar,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+8,C1 BLOCK,1008,FireFighting,Ravi,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+9,COMMON AREA,1009,FireFighting,Ravi,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+10,L1 BLOCK,1010,FireFighting,Anand,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+11,K BLOCK,1011,AccessControl,Sudeep,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+12,COMMON AREA,1012,AccessControl,Sudeep,CLOSED,Mohiddin,18/01/22,Need Replacement
+13,COMMON AREA,1013,AccessControl,Satish,CLOSED,Mohiddin,18/01/22,Completed the AMC Service
+14,COMMON AREA,1014,FireFighting,Satish,CLOSED,Shiva,19/01/22,Completed the AMC Service
+15,COMMON AREA,1015,FireFighting,Satish,CLOSED,Shiva,19/01/22,Completed the AMC Service
+16,COMMON AREA,1016,FireFighting,Satish,CLOSED,Shiva,19/01/22,Completed the AMC Service with Replacement
+17,COMMON AREA,1017,AccessControl,Satish,CLOSED,Shiva,20/01/22,Completed the AMC Service
+18,COMMON AREA,1018,AccessControl,Balakrishna,CLOSED,Shiva,20/01/22,Completed the AMC Service
+19,COMMON AREA,1019,AccessControl,Balakrishna,CLOSED,Shiva,20/01/22,Completed the AMC Service
+20,A BLOCK,1020,AccessControl,Balakrishna,CLOSED,Shiva,20/01/22,Completed the AMC Service
+21,A BLOCK,1021,AccessControl,Balakrishna,CLOSED,Shiva,20/01/22,Completed the AMC Service with Replacement
+22,A BLOCK,1022,AccessControl,Balakrishna,CLOSED,Shiva,20/01/22,Completed the AMC Service with Replacement
+23,C4 COMMAND CENTER,1023,FireAlarm,Balakrishna,CLOSED,Shiva,21/01/22,Completed the AMC Service
+24,C4 COMMAND CENTER,1024,FireAlarm,Balakrishna,CLOSED,Shiva,22/01/22,Completed the AMC Service
+25,C4 COMMAND CENTER,1025,FireAlarm,Balakrishna,CLOSED,Shiva,22/01/22,Completed the AMC Service
