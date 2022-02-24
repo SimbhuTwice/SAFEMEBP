@@ -1,17 +1,22 @@
 S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLAINT DESCRIPTION,RESOLUTION NOTES,Completed_on
-1,D3 BLOCK,6719,FIRE ALARM,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",,
-2,D3 BLOCK,6721,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,D3 basement hoses reel drum Handel boll valve required.,,
+1,D3 BLOCK,6719,FIRE ALARM,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",Offer has been shared for floor affected areas and damaged devices. Waiting for PO.,24-Feb-22
+2,D3 BLOCK,6721,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,D3 basement hoses reel drum Handel boll valve required.,"Offer shared, waiting for po",24-Feb-22
 3,L5 BLOCK,6723,FIRE FIGHTING,Dinakar Raj D,OPEN,Praveen M P,24-Feb-22,Diesel engine pump Diesel outlet hose pipe leakage (pump room),,
 4,D3 BLOCK,6725,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Fire pump room test line valve got damage (water passing),,
-5,D3 BLOCK,6727,PA TALK BACK,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,FAS - Talk back system not working.,,
+5,D3 BLOCK,6727,PA TALK BACK,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,FAS - Talk back system not working.,"The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options.
+
+1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block)
+2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP)",24-Feb-22
 6,H2 BLOCK,6729,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,Fire pump room A/W test line water flow meter not working,,
 7,H2 BLOCK,6731,FIRE ALARM,Ranjith m,OPEN,Jegathesh Johnson,24-Feb-22,Ground floor FA/PA panel 74 troubles need to be clear,,
 8,H2 BLOCK,6733,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB hydrant pump gland plate damage,,
-9,G3 BLOCK,6735,FIRE ALARM,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,Stair case #04 hooter not working,,
-10,G3 BLOCK,6737,PA TALK BACK,Balkrishna,OPEN,Jegathesh Johnson,24-Feb-22,Stair case #01 speaker not working,,
+9,G3 BLOCK,6735,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,Stair case #04 hooter not working,B-wing Distribution Box and console taken out for servicing. Offer has been shared. Waiting for PO to proceed further with servicing activity.,24-Feb-22
+10,G3 BLOCK,6737,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,Stair case #01 speaker not working,"A-wing Talk Back system has been  serviced and tested. Speakers working normally. Offer has been shared.
+Awaiting PO.",24-Feb-22
 11,H2 BLOCK,6739,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB sprinkler pump football leakage,,
 12,G3 BLOCK,6741,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,"Stair case #02, 7th, 8th & 10th floors speaker not working.",,
-13,D3 BLOCK,6743,FIRE ALARM,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",,
+13,D3 BLOCK,6743,FIRE ALARM,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.","Ground floor hooter and PA issue has been resolved.
+Offer has been shared for replacing the floor affected devices and cables in basement. Awaiting for the PO",24-Feb-22
 14,G3 BLOCK,6745,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,"Stair case #03, 4th & 5th floors speaker not working.",,
 15,G3 BLOCK,6747,FIRE ALARM,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,FA system troubles need to be rectified.,,
 16,D3 BLOCK,6749,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Basement FHS#2 & 3 fire shaft door glass damage,,
@@ -21,4 +26,47 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 20,G3 BLOCK,6757,FIRE ALARM,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,FA system recommission work pending A/B wing,,
 21,G3 BLOCK,6759,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Clarke diesel engine Charger not getting charge,,
 22,G3 BLOCK,6761,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,A wing & B wing PA amplifier not working.,,
-23,G3 BLOCK,6763,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,A wing & B wing PA console is not working.,,
+23,G3 BLOCK,6763,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,A wing & B wing PA console is not working.,"A- wing PA panel has been serviced, installed and tested. System working normally.
+Offer has been shared for servicing the PA panel. Awaiting PO for servicing B- wing PA panel.",24-Feb-22
+24,H2 BLOCK,6765,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB jockey pump football leakage,,
+25,H2 BLOCK,6767,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB B/WING Jockey pump football leakage,,
+26,H2 BLOCK,6769,HYDRANT SYSTEM,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB B/Wing hydrant pump gland plate damage,,
+27,H2 BLOCK,6771,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,UB B/Wing test line water flow meter not working,,
+28,H2 BLOCK,6773,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,LB FHC-05 shaft door glass and beading damage,,
+29,G2 BLOCK,6775,HYDRANT SYSTEM,Satish,OPEN,Praveen M P,24-Feb-22,Hydrant pump gland leakage,,
+30,G2 BLOCK,6777,FIRE FIGHTING,Satish,OPEN,Praveen M P,24-Feb-22,Diesel Engine gland leakage,,
+31,H2 BLOCK,6779,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,LB FHC-05 shaft door glass and beading damage,,
+32,E1 BLOCK,6781,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump suction line pipe water passing need to be rectify,,
+33,E1 BLOCK,6783,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,All sluice valve need to be servicing,,
+34,E1 BLOCK,6785,PA TALK BACK,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,2 way Talk back system is not working,,
+35,E1 BLOCK,6787,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to check,,
+36,E1 BLOCK,6789,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Booster pump rotating shaft need to be replace,,
+37,E1 BLOCK,6791,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,1st floor Sprinkler flexible hose need to align & replace,,
+38,E1 BLOCK,6793,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,1st floor Smoke detector is not working,,
+39,E1 BLOCK,6795,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Heat detector need to be install,,
+40,E1 BLOCK,6797,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,,
+41,E1 BLOCK,6799,ACCESS CONTROL,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Doors Access is not working,,
+42,E1 BLOCK,6801,HYDRANT SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,FBI need to be install,,
+43,E1 BLOCK,6803,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,2 nos sluice valve damaged,,
+44,E1 BLOCK,6805,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Pressure switch & Flow meter calibration need to be done,,
+45,E1 BLOCK,6807,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Fire engine B check due,,
+46,E2 BLOCK,6809,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,"Pressure gauge, pressure switch & Flow meter calibration need to be done",,
+47,E2 BLOCK,6811,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Booster pump Auto cut off need to be rectify,,
+48,E2 BLOCK,6813,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Booster pump gland leakage need to be rectify,,
+49,E2 BLOCK,6815,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,FA panel showing 228 trouble has to be rectify.,,
+50,E2 BLOCK,6817,HYDRANT SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,YH #2 Spindle rod need to be replace,,
+51,E2 BLOCK,6819,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,,
+52,E2 BLOCK,6821,ACCESS CONTROL,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Doors Access is not working,,
+53,E2 MLCP,6823,SPRINKLER SYSTEM,Ananda.M,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to check,,
+54,E2 BLOCK,6825,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Smoke detectors need to be cleaning,,
+55,E2 BLOCK,6827,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Fire DG battery need to be replace,,
+56,E2 BLOCK,6829,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,1 no ITC valve need to be replace,,
+57,E2 BLOCK,6831,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
+58,E2 BLOCK,6833,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Fire engine B check due,,
+59,E2 MLCP,6835,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,5 No's Sprinkler rusted bulb need to be replace,,
+60,E2 MLCP,6837,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
+61,E2 MLCP,6839,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
+62,E2 MLCP,6841,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Booster pump Auto cut off need to be rectify,,
+63,E2 MLCP,6843,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Booster pump gland leakage need to be rectify,,
+64,E2 MLCP,6845,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,,
+65,E2 MLCP,6847,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to check,,
