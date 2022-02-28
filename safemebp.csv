@@ -17,7 +17,7 @@ Awaiting PO.",24-Feb-22
 12,G3 BLOCK,6741,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,"Stair case #02, 7th, 8th & 10th floors speaker not working.",,
 13,D3 BLOCK,6743,FIRE ALARM,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.","Ground floor hooter and PA issue has been resolved.
 Offer has been shared for replacing the floor affected devices and cables in basement. Awaiting for the PO",24-Feb-22
-14,G3 BLOCK,6745,PA TALK BACK,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,"Stair case #03, 4th & 5th floors speaker not working.",,
+14,G3 BLOCK,6745,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,"Stair case #03, 4th & 5th floors speaker not working.","Speaker damaged ,need to be change to the new speaker.",26-Feb-22
 15,G3 BLOCK,6747,FIRE ALARM,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,FA system troubles need to be rectified.,,
 16,D3 BLOCK,6749,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Basement FHS#2 & 3 fire shaft door glass damage,,
 17,G3 BLOCK,6751,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Jockey pump water seal leakage need to rectify,,
@@ -210,7 +210,7 @@ The existing PA system has all the staircase speakers connected in a single pair
 179,G2 BLOCK,7075,SPRINKLER SYSTEM,Satish,OPEN,Praveen M P,25-Feb-22,Sprinkler pump priming line NRV water passing,,
 180,G2 BLOCK,7077,FIRE FIGHTING,Satish,OPEN,Praveen M P,25-Feb-22,Pressure switch calibration need to be done,,
 181,G2 BLOCK,7079,SPRINKLER SYSTEM,Satish,OPEN,Praveen M P,25-Feb-22,Sprinkler ICV pipeline water leakage need to rectify,,
-182,G2 BLOCK,7081,FIRE ALARM,Satish,OPEN,Jegathesh Johnson,25-Feb-22,2 floors hooter is activated directly,,
+182,G2 BLOCK,7081,FIRE ALARM,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,2 floors hooter is activated directly,"rectification completed, now the hooter has been working fine.",25-Feb-22
 183,G1 BLOCK,7083,PA TALK BACK,Satish,OPEN,Jegathesh Johnson,25-Feb-22,"Staircase #1, 4th Speaker is not working",,
 184,G1 BLOCK,7085,PA TALK BACK,Satish,OPEN,Jegathesh Johnson,25-Feb-22,"Staircase #1, 8th Speaker is not working",,
 185,G1 BLOCK,7087,PA TALK BACK,Satish,OPEN,Jegathesh Johnson,25-Feb-22,"Staircase #2, 7th floor Speaker is not working",,
@@ -260,7 +260,7 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 227,L1 BLOCK,7171,FIRE ALARM,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,Some MCP location not showing in panel,,
 228,L1 BLOCK,7173,FIRE ALARM,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,Hooter is without alarm activated directly,,
 229,L1 BLOCK,7175,FIRE ALARM,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,"DG,LT,LMR & Chiller room hooter, MCP & Detector need to be fix",,
-230,L2 BLOCK,7177,HYDRANT SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Yard Hydrant #2 leakage pipe line need to be rectify,,
+230,L2 BLOCK,7177,HYDRANT SYSTEM,Venkateshappa,COMPLETED,Praveen M P,25-Feb-22,Yard Hydrant #2 leakage pipe line need to be rectify,Leakage rectified,27-Feb-22
 231,L2 BLOCK,7179,FIRE FIGHTING,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Fire DG B-check need to be done,,
 232,L2 BLOCK,7181,HYDRANT SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,FHC #10 modification work near LT room (Staircase # 6),,
 233,L2 BLOCK,7183,SPRINKLER SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Some flow switch location not showing in panel,,
@@ -317,12 +317,15 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 284,D2 BLOCK,7285,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,Terrace staircase #3 Access Control not working,,
 285,D2 BLOCK,7287,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,Terrace staircase #4 Access Control not working,,
 286,D4 BLOCK,7289,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,Terrace service lift lobby Access Control not working,,
-287,L5 BLOCK,7291,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,25-Feb-22,Staircase no 1 4th floor 8th floor & 9th floor MCP not working,,
-288,L5 BLOCK,7293,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,25-Feb-22,Staircase no 2 4th 7th 8th & 9th floor MCP not working,,
-289,L5 BLOCK,7295,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,25-Feb-22,Staircase no 3 8th & 9th floor MCP not working,,
+287,L5 BLOCK,7291,FIRE ALARM,Dinakar Raj D,COMPLETED,Jegathesh Johnson,25-Feb-22,Staircase no 1 4th floor 8th floor & 9th floor MCP not working,"MCP fault ,need to be change the new MCP",28-Feb-22
+288,L5 BLOCK,7293,FIRE ALARM,Dinakar Raj D,COMPLETED,Jegathesh Johnson,25-Feb-22,Staircase no 2 4th 7th 8th & 9th floor MCP not working,"MCP has been faulty condition,need to be change the new MCP.",28-Feb-22
+289,L5 BLOCK,7295,FIRE ALARM,Dinakar Raj D,COMPLETED,Jegathesh Johnson,25-Feb-22,Staircase no 3 8th & 9th floor MCP not working,Mcp fault need to be change new mcp.,26-Feb-22
 290,L6 BLOCK,7297,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,26-Feb-22,System trouble to be rectify,,
 291,L6 BLOCK,7299,FIRE FIGHTING,Dinakar Raj D,OPEN,Praveen M P,26-Feb-22,Sprinkler on button indication light not working,,
 292,L6 BLOCK,7301,FIRE FIGHTING,Dinakar Raj D,OPEN,Praveen M P,26-Feb-22,Diesel engine on indication light not working,,
 293,L6 BLOCK,7303,FIRE FIGHTING,Dinakar Raj,OPEN,Praveen M P,26-Feb-22,Terrace booster pump on & off push button not working properly,,
 294,L6 BLOCK,7305,FIRE FIGHTING,Dinakar Raj D,OPEN,Praveen M P,26-Feb-22,6th floor inside Sprinkler delivery line butterfly valve leakage,,
 295,L6 BLOCK,7307,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,26-Feb-22,Ground floor 1st 2nd 3rd & 5th hooter not working,,
+296,H2 BLOCK,7309,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,26-Feb-22,B wing fire DG sum sparks coming near starter while running DG,,
+297,H2 BLOCK,7311,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,26-Feb-22,B wing Sprinkler pump suction line gasket leckage,,
+298,E2 BLOCK,7313,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,26-Feb-22,Colt FAS system & builder FAS system integration need to be done,,
