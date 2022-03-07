@@ -160,7 +160,7 @@ Awaiting PO for replacing the switches, media converter and power adaptors.",24-
 135,F2 BLOCK,6987,PA TALK BACK,Manjunath Rao,OPEN,Jegathesh Johnson,24-Feb-22,"Staircase #6, 1st,3rd, 10th, floors Speaker not working",,
 136,F2 BLOCK,6989,SPRINKLER SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to be check,,
 137,F2 BLOCK,6991,HYDRANT SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Hose box glass beeding need to be replace,,
-138,F2 BLOCK,6993,FIRE ALARM,Manjunath Rao,OPEN,Jegathesh Johnson,24-Feb-22,FAS Cable laying need to be properly,,
+138,F2 BLOCK,6993,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,FAS Cable laying need to be properly,FAS cable laying work has been completed,06-Mar-22
 139,F2 BLOCK,6995,FIRE FIGHTING,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Hose reel drum #5 need to be fix properly,,
 140,F3 BLOCK,6997,FIRE FIGHTING,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Flow meter calibration need to be done,,
 141,F3 BLOCK,6999,SPRINKLER SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,6 no's rusted sprinkler bulb need to be replace,,
@@ -289,7 +289,7 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 256,D1 BLOCK,7229,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,25-Feb-22,Fire system flow meter not working,,
 257,D1 BLOCK,7231,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,25-Feb-22,Pump room All pumps gland leakage water passing hose need to be replace,,
 258,D1 BLOCK,7233,FIRE ALARM,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,FA panel showing trouble & Alarm has to be rectify.,,
-259,D1 BLOCK,7235,PA TALK BACK,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,FAS - Talk Back System not working,,
+259,D1 BLOCK,7235,PA TALK BACK,Sudeep,COMPLETED,Jegathesh Johnson,25-Feb-22,FAS - Talk Back System not working,"The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options. 1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block) 2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP)",04-Mar-22
 260,D1 BLOCK,7237,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 North East PTZ Camera has to be install,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
 261,D1 BLOCK,7239,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement DG Room Entry Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
 262,D1 BLOCK,7241,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 ground floor south West PTZ Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
