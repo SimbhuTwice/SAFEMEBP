@@ -131,17 +131,17 @@ Offer has been shared for restoring. Awaiting PO.",24-Feb-22
 108,D4 MLCP,6933,HYDRANT SYSTEM,Sudeep,OPEN,Praveen M P,24-Feb-22,Ground floor YH #2 underground water leakage.,,
 109,D4 MLCP,6935,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,"Ground floor,5th 11th floor fire shaft door glass damage",,
 110,K BLOCK,6937,FIRE FIGHTING,Nandakumar CR,OPEN,Praveen M P,24-Feb-22,Fire Diesel engine pump Gland pusher got to damaged need to be done.,,
-111,D4 MLCP,6939,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Fire hydrant shaft Keys not available,,
+111,D4 MLCP,6939,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Fire hydrant shaft Keys not available,Waiting for po,11-Mar-22
 112,D4 MLCP,6941,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor fire Pump Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 113,D4 MLCP,6943,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor DG room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
 114,K BLOCK,6945,FIRE FIGHTING,Nandakumar CR,COMPLETED,Praveen M P,24-Feb-22,Fire diesel engine battery charger not working need to be replaced.,"Offer shared, waiting for po",25-Feb-22
 115,D4 MLCP,6947,PA TALK BACK,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,PA - Talk Back System not working,,
 116,K BLOCK,6949,FIRE FIGHTING,Nandakumar CR,OPEN,Praveen M P,24-Feb-22,Fire Booster pump not working need to be rectify.,,
 117,D3 BLOCK,6951,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Fire hydrant shaft keys not available,,
 118,K BLOCK,6953,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,Fire FA system Troubles to be resolved.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
-119,D4 MLCP,6955,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Fire diesel engine diesel line leakage,,
+119,D4 MLCP,6955,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Fire diesel engine diesel line leakage,Waiting for po,11-Mar-22
 120,L6 BLOCK,6957,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,24-Feb-22,Fire alarm system is in off condition (ground floor reception),,
 121,K BLOCK,6959,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,3rd floor Hooter not working need to be rectify.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
 122,K BLOCK,6961,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,3rd floor Hooter not working need to be rectify.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
@@ -161,7 +161,7 @@ Awaiting PO for replacing the switches, media converter and power adaptors.",24-
 136,F2 BLOCK,6989,SPRINKLER SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to be check,,
 137,F2 BLOCK,6991,HYDRANT SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Hose box glass beeding need to be replace,,
 138,F2 BLOCK,6993,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,FAS Cable laying need to be properly,FAS cable laying work has been completed,06-Mar-22
-139,F2 BLOCK,6995,FIRE FIGHTING,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Hose reel drum #5 need to be fix properly,,
+139,F2 BLOCK,6995,FIRE FIGHTING,Manjunath Rao,COMPLETED,Praveen M P,24-Feb-22,Hose reel drum #5 need to be fix properly,Completed,11-Mar-22
 140,F3 BLOCK,6997,FIRE FIGHTING,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Flow meter calibration need to be done,,
 141,F3 BLOCK,6999,SPRINKLER SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,6 no's rusted sprinkler bulb need to be replace,,
 142,F3 BLOCK,7001,PA TALK BACK,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,2way talk back system listen mode need to be rectify,"Total Zones supported by F3 PA existing panel: 15 Zones
@@ -265,7 +265,7 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 232,L2 BLOCK,7181,HYDRANT SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,FHC #10 modification work near LT room (Staircase # 6),,
 233,L2 BLOCK,7183,SPRINKLER SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Some flow switch location not showing in panel,,
 234,L2 BLOCK,7185,FIRE ALARM,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,Some MCP location not showing in panel,,
-235,L3 BLOCK,7187,FIRE FIGHTING,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Test line butterfly valve water passing need to be rectify,,
+235,L3 BLOCK,7187,FIRE FIGHTING,Venkateshappa,COMPLETED,Praveen M P,25-Feb-22,Test line butterfly valve water passing need to be rectify,New valve delivered and fixed,11-Mar-22
 236,L3 BLOCK,7189,FIRE FIGHTING,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Fire DG B-check need to be done,,
 237,L3 BLOCK,7191,FIRE ALARM,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,Hooter is without alarm activated directly,,
 238,L3 BLOCK,7193,PA TALK BACK,Venkateshappa,OPEN,Jegathesh Johnson,25-Feb-22,PA system listen mode is not working,,
@@ -448,3 +448,5 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 415,L2 BLOCK,7547,CCTV,Venkateshappa,OPEN,Prasanth M,03-Mar-22,L2 MLCP 4th Floor cam-4 Fixed Camera Failed,,
 416,E2 BLOCK,7551,FIRE EXTINGUISHER,Ananda M,OPEN,Praveen M P,10-Mar-22,fire extinguishers Reffiling pending PO has released,,
 417,E1 BLOCK,7553,FIRE EXTINGUISHER,Ananda M,OPEN,Praveen M P,10-Mar-22,fire extinguishers Reffiling pending PO has released,,
+418,L6 BLOCK,7555,HYDRANT SYSTEM,Dinakar Raj D,OPEN,Praveen M P,10-Mar-22,Yard hydrant water leakage,,
+419,E2 BLOCK,7557,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,10-Mar-22,"Fire Alarm Panel Enabled but Not Reset, Smoke Detector Ground Floor SD-32 Must Be Verified",,
