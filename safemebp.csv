@@ -1,5 +1,5 @@
 S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLAINT DESCRIPTION,RESOLUTION NOTES,Completed_on
-1,D3 BLOCK,6719,FIRE ALARM,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",Offer has been shared for floor affected areas and damaged devices. Waiting for PO.,24-Feb-22
+1,D3 BLOCK,6719,FIRE ALARM,Sudeep,Offer Shared,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",Offer has been shared for floor affected areas and damaged devices. Waiting for PO.,24-Feb-22
 2,D3 BLOCK,6721,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,D3 basement hoses reel drum Handel boll valve required.,"Offer shared, waiting for po",24-Feb-22
 3,L5 BLOCK,6723,FIRE FIGHTING,Dinakar Raj D,COMPLETED,Praveen M P,24-Feb-22,Diesel engine pump Diesel outlet hose pipe leakage (pump room),"Meterial required, offer to be shared",08-Mar-22
 4,D3 BLOCK,6725,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Fire pump room test line valve got damage (water passing),"Material Required, Offer has been shared. Awaiting PO.",24-Feb-22
@@ -10,10 +10,10 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 6,H2 BLOCK,6729,FIRE FIGHTING,Ranjith m,COMPLETED,Praveen M P,24-Feb-22,Fire pump room A/W test line water flow meter not working,flow meter need to be replace ,30-Mar-22
 7,H2 BLOCK,6731,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,24-Feb-22,Ground floor FA/PA panel 74 troubles need to be clear,"Device has been found faulty condition ,offer has been shared,need to be change the devices",31-Mar-22
 8,H2 BLOCK,6733,FIRE FIGHTING,Ranjith m,COMPLETED,Praveen M P,24-Feb-22,UB hydrant pump gland plate damage,material required,30-Mar-22
-9,G3 BLOCK,6735,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,Stair case #04 hooter not working,B-wing Distribution Box and console taken out for servicing. Offer has been shared. Waiting for PO to proceed further with servicing activity.,24-Feb-22
+9,G3 BLOCK,6735,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,Stair case #04 hooter not working,B-wing Distribution Box and console taken out for servicing. Offer has been shared. Waiting for PO to proceed further with servicing activity.,29-Mar-22
 10,G3 BLOCK,6737,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,Stair case #01 speaker not working,"A-wing Talk Back system has been  serviced and tested. Speakers working normally. Offer has been shared.
-Awaiting PO.",24-Feb-22
-11,H2 BLOCK,6739,FIRE FIGHTING,Ranjith m,COMPLETED,Praveen M P,24-Feb-22,UB sprinkler pump football leakage,Offer chaired waiting for po,24-Feb-22
+Awaiting PO.",08-Mar-22
+11,H2 BLOCK,6739,FIRE FIGHTING,Ranjith m,COMPLETED,Praveen M P,24-Feb-22,UB sprinkler pump football leakage,Offer chaired waiting for po,11-Apr-22
 12,G3 BLOCK,6741,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,"Stair case #02, 7th, 8th & 10th floors speaker not working.","Our team has been checked to the speakers ,all are working good condition ",30-Mar-22
 13,D3 BLOCK,6743,FIRE ALARM,Sudeep,COMPLETED,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.","Ground floor hooter and PA issue has been resolved.
 Offer has been shared for replacing the floor affected devices and cables in basement. Awaiting for the PO",24-Feb-22
@@ -23,7 +23,7 @@ Offer has been shared for replacing the floor affected devices and cables in bas
 17,G3 BLOCK,6751,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Jockey pump water seal leakage need to rectify,,
 18,D3 BLOCK,6753,HYDRANT SYSTEM,Sudeep,OPEN,Praveen M P,24-Feb-22,Ground floor FHS#3 & 4 fire shaft door glass damage,,
 19,G3 BLOCK,6755,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Fire dg 1 Diesel tank hose pipe leakage,,
-20,G3 BLOCK,6757,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,FA system recommission work pending A/B wing,Mail has been shared requesting trap door for collecting all the control modules installed in floors. Still no confirmation from Building Executives regarding trap doors.,24-Feb-22
+20,G3 BLOCK,6757,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,FA system recommission work pending A/B wing,Mail has been shared requesting trap door for collecting all the control modules installed in floors. Still no confirmation from Building Executives regarding trap doors.,29-Mar-22
 21,G3 BLOCK,6759,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Clarke diesel engine Charger not getting charge,,
 22,G3 BLOCK,6761,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,A wing & B wing PA amplifier not working.,"G-3 Block new amplifier instalation work has been done, now system has been working good condition",24-Mar-22
 23,G3 BLOCK,6763,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,A wing & B wing PA console is not working.,"A- wing PA panel has been serviced, installed and tested. System working normally.
@@ -44,7 +44,7 @@ Offer has been shared for servicing the PA panel. Awaiting PO for servicing B- w
 37,E1 BLOCK,6791,SPRINKLER SYSTEM,Ananda M,COMPLETED,Praveen M P,24-Feb-22,1st floor Sprinkler flexible hose need to align & replace,Waiting for po,15-Mar-22
 38,E1 BLOCK,6793,FIRE ALARM,Ananda M,COMPLETED,Jegathesh Johnson,24-Feb-22,1st floor Smoke detector is not working,"Damaged by vendors during project work. Offer has been shared for rectification and additional device installation.
 
-Awaiting PO.",24-Feb-22
+Awaiting PO.",25-Feb-22
 39,E1 BLOCK,6795,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Heat detector need to be install,Not yet complete to the demolation activity,29-Apr-22
 40,E1 BLOCK,6797,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,Offer shared,29-Apr-22
 41,E1 BLOCK,6799,ACCESS CONTROL,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Doors Access is not working,,
@@ -68,8 +68,8 @@ Awaiting PO.",24-Feb-22
 59,E2 MLCP,6835,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,5 No's Sprinkler rusted bulb need to be replace,,
 60,E2 MLCP,6837,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
 61,E2 MLCP,6839,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
-62,E2 MLCP,6841,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump Auto cut off need to be rectify,Issue observed to be due to reduced pump efficiency. Offer has been shared for servicing the pump. ,24-Feb-22
-63,E2 MLCP,6843,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump gland leakage need to be rectify,Issue resolved,24-Feb-22
+62,E2 MLCP,6841,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump Auto cut off need to be rectify,Issue observed to be due to reduced pump efficiency. Offer has been shared for servicing the pump. ,17-Mar-22
+63,E2 MLCP,6843,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump gland leakage need to be rectify,Issue resolved,26-Feb-22
 64,E2 MLCP,6845,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,Offer shared,29-Apr-22
 65,E2 MLCP,6847,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to check,,
 66,G3 BLOCK,6849,SPRINKLER SYSTEM,Balakrishna,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to be check,,
@@ -80,11 +80,11 @@ Awaiting PO.",24-Feb-22
 71,G3 BLOCK,6859,FIRE EXTINGUISHER,Balakrishna,OPEN,Praveen M P,24-Feb-22,Water type FE need replace to ABC type fire extinguisher,,
 72,D3 BLOCK,6861,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D3 Electrical Room Fixed Camera Failed,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 73,D3 BLOCK,6863,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D3 Pump Room Fixed Camera Failed,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
-74,G3 BLOCK,6865,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,Fire extinguishers refilling & HP test need to be done,Offer Shared Awaiting for PO. Please confirm with PO to process the same. ,24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
+74,G3 BLOCK,6865,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,Fire extinguishers refilling & HP test need to be done,Offer Shared Awaiting for PO. Please confirm with PO to process the same. ,06-Apr-22
 75,D3 BLOCK,6867,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,Ground floor L T ROOM Access Control Door not working,,
 76,G3 BLOCK,6869,SPRINKLER SYSTEM,Balakrishna,OPEN,Praveen M P,24-Feb-22,Sprinkler ICV pipeline water leakage need to rectify,,
 77,G3 BLOCK,6871,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Pressure gauge modification need to be done,,
@@ -101,32 +101,32 @@ Awaiting PO for replacing the switches, media converter and power adaptors.",24-
 88,D4 BLOCK,6893,HYDRANT SYSTEM,Sudeep,OPEN,Praveen M P,24-Feb-22,Terrace Ring main 1no butterfly valve issue need to be replace,,
 89,D4 BLOCK,6895,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 Terrace Entry Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 90,D4 BLOCK,6897,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 Electrical Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 91,D4 BLOCK,6899,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor DG Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 92,D4 BLOCK,6901,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 Terrace North East PTZ Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
-Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 93,D4 BLOCK,6903,PA TALK BACK,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,Ground Floor PA - Talk Back System not working,The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options. 1. ,29-Apr-22
 94,G4 BLOCK,6905,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,"Stair case #1, 5th floor MCP not working",Our engineer has been visit the block but didn't  get the permission for doing the activity,01-Mar-22
 95,D4 BLOCK,6907,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,FHS #3 basement fire shaft door glass damage,,
 96,G4 BLOCK,6909,SPRINKLER SYSTEM,Balakrishna,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to be check,,
 97,G4 BLOCK,6911,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Fire DG B-check need to be done,,
 98,D4 MLCP,6913,FIRE ALARM,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,Ground floor FAS panel not working,"System failure ,not in operational,need to be change to the new panel",29-Apr-22
-99,G4 BLOCK,6915,SPRINKLER SYSTEM,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,5th to 10th floors Sprinkler line pressure testing need to be done,"Not in our scope, offer need to be share",25-Feb-22
-100,D4 MLCP,6917,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Pump room Hydrant pump Suction line got rusted & water leakage.,"Offer shared, waiting for po",25-Feb-22
+99,G4 BLOCK,6915,SPRINKLER SYSTEM,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,5th to 10th floors Sprinkler line pressure testing need to be done,"Not in our scope, offer need to be share",27-Feb-22
+100,D4 MLCP,6917,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Pump room Hydrant pump Suction line got rusted & water leakage.,"Offer shared, waiting for po",08-Mar-22
 101,G4 BLOCK,6919,FIRE ALARM,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,5th to 10th floors Smoke detectors looping need to be rectify,"Damaged by CTS client during the demolition activity. Client need to get the loop restored.
 
-Offer has been shared for restoring. Awaiting PO.",24-Feb-22
+Offer has been shared for restoring. Awaiting PO.",25-Feb-22
 102,D4 MLCP,6921,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Pump room Test line got rusted & water leakage.,"Offer shared, waiting for po",21-Mar-22
 103,G4 BLOCK,6923,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,New fire extinguishers need to be supply & install,Meterial supplyed to be install,21-Mar-22
 104,G4 BLOCK,6925,HYDRANT SYSTEM,Balakrishna,OPEN,Praveen M P,24-Feb-22,Hose reel drum leakage need to be rectify,,
 105,K BLOCK,6927,FIRE FIGHTING,Nandakumar CR,OPEN,Praveen M P,24-Feb-22,Fire Diesel engine pump ''B''-check need to be done,,
-106,G4 BLOCK,6929,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,Fire extinguishers refilling & HP test need to be done,flow meter need to be replace ,30-Mar-22
+106,G4 BLOCK,6929,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,24-Feb-22,Fire extinguishers refilling & HP test need to be done,flow meter need to be replace ,23-Mar-22
 107,D4 MLCP,6931,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Terrace booster pump pressure gauge not available,,
 108,D4 MLCP,6933,HYDRANT SYSTEM,Sudeep,OPEN,Praveen M P,24-Feb-22,Ground floor YH #2 underground water leakage.,,
 109,D4 MLCP,6935,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,"Ground floor,5th 11th floor fire shaft door glass damage",,
@@ -135,7 +135,7 @@ Offer has been shared for restoring. Awaiting PO.",24-Feb-22
 112,D4 MLCP,6941,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor fire Pump Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement.
 
 Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
-113,D4 MLCP,6943,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor DG room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors.",24-Feb-22
+113,D4 MLCP,6943,CCTV,Sudeep,COMPLETED,Prasanth M,24-Feb-22,D4 MLCP ground floor DG room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors.",25-Feb-22
 114,K BLOCK,6945,FIRE FIGHTING,Nandakumar CR,COMPLETED,Praveen M P,24-Feb-22,Fire diesel engine battery charger not working need to be replaced.,"Offer shared, waiting for po",25-Feb-22
 115,D4 MLCP,6947,PA TALK BACK,Sudeep,OPEN,Jegathesh Johnson,24-Feb-22,PA - Talk Back System not working,"The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options. 1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block) 2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP)",29-Apr-22
 116,K BLOCK,6949,FIRE FIGHTING,Nandakumar CR,OPEN,Praveen M P,24-Feb-22,Fire Booster pump not working need to be rectify.,,
@@ -151,7 +151,7 @@ Awaiting PO for replacing the switches, media converter and power adaptors.",25-
 126,F2 BLOCK,6969,FIRE ALARM,Manjunath Rao,OPEN,Jegathesh Johnson,24-Feb-22,"Staircase #3, 4th, GF floors MCP not working",,
 127,F2 BLOCK,6971,PA TALK BACK,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,"Staircase #3, basement & 4th floors speaker is not working",Completed,29-Apr-22
 128,F2 BLOCK,6973,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,"Staircase #4, 4th, 7th, 8th floors MCP not working",Completed,29-Apr-22
-129,H1 BLOCK,6975,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,24-Feb-22,GF FA/PA panel need to be replace,Offer has been shared for replacement on 11-01-2022. Waiting for PO.,24-Feb-22
+129,H1 BLOCK,6975,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,24-Feb-22,GF FA/PA panel need to be replace,Offer has been shared for replacement on 11-01-2022. Waiting for PO.,25-Feb-22
 130,F2 BLOCK,6977,PA TALK BACK,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,"Staircase #4, basement, 3rd, 6th, 8th floors speaker is not working",Completed,29-Apr-22
 131,H1 BLOCK,6979,FIRE FIGHTING,Ranjith m,OPEN,Praveen M P,24-Feb-22,S/W Sprinkler pump NRV leckage,,
 132,F2 BLOCK,6981,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,"Staircase #5, 4th, 6th, 10th MCP not working",Completed,29-Apr-22
@@ -170,7 +170,7 @@ Total speakers in F3 Block: 70 Speakers.
 The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options.
 
 1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block)
-2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP",24-Feb-22
+2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP",25-Feb-22
 143,F3 BLOCK,7003,SPRINKLER SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,All location Sprinkler flow switch need to be check,,
 144,F3 BLOCK,7005,HYDRANT SYSTEM,Manjunath Rao,OPEN,Praveen M P,24-Feb-22,Common area Hose box glass beeding need to be replace,,
 145,F3 BLOCK,7007,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,24-Feb-22,Fire alarm system 22 no's Trouble,"Trouble reduced from 22 to 16, some device has been found faulty condition need to be change new device, same has been informed to the F/O.",29-Mar-22
@@ -183,7 +183,7 @@ The existing PA system has all the staircase speakers connected in a single pair
 152,G1 BLOCK,7021,SPRINKLER SYSTEM,Satish,OPEN,Praveen M P,24-Feb-22,UB 6 No's rusted sprinkler collar need to be replace,,
 153,G1 BLOCK,7023,FIRE FIGHTING,Satish,OPEN,Praveen M P,24-Feb-22,Fire diesel engine (Kirloskar pump #1) body leakage need to rectify,,
 154,G1 BLOCK,7025,FIRE ALARM,Satish,OPEN,Jegathesh Johnson,24-Feb-22,"MCP, Hooter & speaker programming need to be done at DG room",Plan to do the activiy on coming week,29-Apr-22
-155,G1 BLOCK,7027,FIRE ALARM,Satish,COMPLETED,Jegathesh Johnson,24-Feb-22,120 no's Troubles need to be rectify,"Ground Floor loop has been damaged by client during renovation activity, the client need to get the loop restored.",24-Feb-22
+155,G1 BLOCK,7027,FIRE ALARM,Satish,COMPLETED,Jegathesh Johnson,24-Feb-22,120 no's Troubles need to be rectify,"Ground Floor loop has been damaged by client during renovation activity, the client need to get the loop restored.",25-Feb-22
 156,G1 BLOCK,7029,PA TALK BACK,Satish,OPEN,Jegathesh Johnson,24-Feb-22,2way talk back system listen mode need to be rectify,"The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options. 1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block) 2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP)",29-Apr-22
 157,G1 BLOCK,7031,FIRE FIGHTING,Satish,OPEN,Praveen M P,24-Feb-22,Booster pump push button is not working,,
 158,G1 BLOCK,7033,SPRINKLER SYSTEM,Satish,OPEN,Praveen M P,24-Feb-22,4 No's Sprinkler flow switch is not working,,
@@ -210,7 +210,7 @@ The existing PA system has all the staircase speakers connected in a single pair
 179,G2 BLOCK,7075,SPRINKLER SYSTEM,Satish,OPEN,Praveen M P,25-Feb-22,Sprinkler pump priming line NRV water passing,,
 180,G2 BLOCK,7077,FIRE FIGHTING,Satish,OPEN,Praveen M P,25-Feb-22,Pressure switch calibration need to be done,,
 181,G2 BLOCK,7079,SPRINKLER SYSTEM,Satish,COMPLETED,Praveen M P,25-Feb-22,Sprinkler ICV pipeline water leakage need to rectify,Civil work not done,21-Mar-22
-182,G2 BLOCK,7081,FIRE ALARM,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,2 floors hooter is activated directly,"rectification completed, now the hooter has been working fine.",25-Feb-22
+182,G2 BLOCK,7081,FIRE ALARM,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,2 floors hooter is activated directly,"rectification completed, now the hooter has been working fine.",26-Feb-22
 183,G1 BLOCK,7083,PA TALK BACK,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,"Staircase #1, 4th Speaker is not working",Our engineer has been visit the block but didn't get the permission for doing the activity.,01-Mar-22
 184,G1 BLOCK,7085,PA TALK BACK,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,"Staircase #1, 8th Speaker is not working",Our engineer has been visit the block but didn't get the permission for doing the activity.,01-Mar-22
 185,G1 BLOCK,7087,PA TALK BACK,Satish,COMPLETED,Jegathesh Johnson,25-Feb-22,"Staircase #2, 7th floor Speaker is not working",Our engineer has been visit the block but didn't get the permission for doing the activity.,01-Mar-22
@@ -244,7 +244,7 @@ The existing PA system has all the staircase speakers connected in a single pair
 
 Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 213,G6 MLCP,7143,SPRINKLER SYSTEM,Balakrishna,OPEN,Praveen M P,25-Feb-22,All location Sprinkler flow switch need to be check,,
-214,G6 MLCP,7145,HYDRANT SYSTEM,Balakrishna,COMPLETED,Praveen M P,25-Feb-22,1 no Hydrant point need to be install at Terrace,"Offer shared, waiting for po",25-Feb-22
+214,G6 MLCP,7145,HYDRANT SYSTEM,Balakrishna,COMPLETED,Praveen M P,25-Feb-22,1 no Hydrant point need to be install at Terrace,"Offer shared, waiting for po",08-Mar-22
 215,G6 MLCP,7147,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,25-Feb-22,GF & LB Speaker is not working,Speakers has been damaged need to be replace.,25-Feb-22
 216,G6 MLCP,7149,FIRE EXTINGUISHER,Balakrishna,COMPLETED,Praveen M P,25-Feb-22,Fire extinguishers refilling & HP test need to be done,Offer shared,23-Mar-22
 217,G6 MLCP,7151,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,25-Feb-22,All locations Hose reel hose need to be check & servicing,,
@@ -260,7 +260,7 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 227,L1 BLOCK,7171,FIRE ALARM,Venkateshappa,COMPLETED,Jegathesh Johnson,25-Feb-22,Some MCP location not showing in panel,Completed,29-Apr-22
 228,L1 BLOCK,7173,FIRE ALARM,Venkateshappa,COMPLETED,Jegathesh Johnson,25-Feb-22,Hooter is without alarm activated directly,Completed,29-Apr-22
 229,L1 BLOCK,7175,FIRE ALARM,Venkateshappa,COMPLETED,Jegathesh Johnson,25-Feb-22,"DG,LT,LMR & Chiller room hooter, MCP & Detector need to be fix",Completed,29-Apr-22
-230,L2 BLOCK,7177,HYDRANT SYSTEM,Venkateshappa,COMPLETED,Praveen M P,25-Feb-22,Yard Hydrant #2 leakage pipe line need to be rectify,Leakage rectified,27-Feb-22
+230,L2 BLOCK,7177,HYDRANT SYSTEM,Venkateshappa,COMPLETED,Praveen M P,25-Feb-22,Yard Hydrant #2 leakage pipe line need to be rectify,Leakage rectified,08-Mar-22
 231,L2 BLOCK,7179,FIRE FIGHTING,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Fire DG B-check need to be done,,
 232,L2 BLOCK,7181,HYDRANT SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,FHC #10 modification work near LT room (Staircase # 6),,
 233,L2 BLOCK,7183,SPRINKLER SYSTEM,Venkateshappa,OPEN,Praveen M P,25-Feb-22,Some flow switch location not showing in panel,,
@@ -290,12 +290,12 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 257,D1 BLOCK,7231,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,25-Feb-22,Pump room All pumps gland leakage water passing hose need to be replace,,
 258,D1 BLOCK,7233,FIRE ALARM,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,FA panel showing trouble & Alarm has to be rectify.,,
 259,D1 BLOCK,7235,PA TALK BACK,Sudeep,COMPLETED,Jegathesh Johnson,25-Feb-22,FAS - Talk Back System not working,"The existing PA system has all the staircase speakers connected in a single pair of twisted cable. Which we have recommended for upgrading it with 2 listed options. 1. Integrated Fire alarm amplifier panel with Telephone and Mic. (Pilot version to be implemented in H2 Block) 2. Upgrade all the speakers (with call button), cables(2*1.5sq.mm armoured cable) and panel(40Zone Talk-back panel with call button). (Pilot version implemented in E2 and E2 MLCP)",04-Mar-22
-260,D1 BLOCK,7237,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 North East PTZ Camera has to be install,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
-261,D1 BLOCK,7239,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement DG Room Entry Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
-262,D1 BLOCK,7241,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 ground floor south West PTZ Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
-263,D1 BLOCK,7243,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement DG Room exit fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
-264,D1 BLOCK,7245,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement Electrical Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
-265,D1 BLOCK,7247,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 ground floor Pump Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",25-Feb-22
+260,D1 BLOCK,7237,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 North East PTZ Camera has to be install,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
+261,D1 BLOCK,7239,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement DG Room Entry Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
+262,D1 BLOCK,7241,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 ground floor south West PTZ Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
+263,D1 BLOCK,7243,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement DG Room exit fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
+264,D1 BLOCK,7245,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 basement Electrical Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
+265,D1 BLOCK,7247,CCTV,Sudeep,COMPLETED,Prasanth M,25-Feb-22,D1 ground floor Pump Room Fixed Camera not working,"Switches, media converter in Basement rack has been damaged during flood. Offer has been shared for replacement. Awaiting PO for replacing the switches, media converter and power adaptors",08-Mar-22
 266,D1 BLOCK,7249,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,D1 ground floor fire pump room Access Control Door not working,,
 267,D1 BLOCK,7251,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,Terrace service lift lobby Access Control not working,,
 268,D1 BLOCK,7253,ACCESS CONTROL,Sudeep,OPEN,Jegathesh Johnson,25-Feb-22,Terrace staircase #1 Access Control not working,,
@@ -444,12 +444,12 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 411,K BLOCK,7539,ACCESS CONTROL,Nandakumar C R,OPEN,Jegathesh Johnson,03-Mar-22,Terrace Staircase-1 Access Control Door not working,,
 412,K BLOCK,7541,ACCESS CONTROL,Nandakumar C R,OPEN,Jegathesh Johnson,03-Mar-22,Terrace Staircase-2 Access Control Door not working,,
 413,K BLOCK,7543,ACCESS CONTROL,Nandakumar C R,OPEN,Jegathesh Johnson,03-Mar-22,Terrace Staircase-4 Access Control Door not working,,
-414,L2 BLOCK,7545,CCTV,Venkateshappa,COMPLETED,Prasanth M,03-Mar-22,L2 Passenger Lift-G Fixed Camera Failed,Rectified Working Normal,29-Apr-22
-415,L2 BLOCK,7547,CCTV,Venkateshappa,COMPLETED,Prasanth M,03-Mar-22,L2 MLCP 4th Floor cam-4 Fixed Camera Failed,Rectified Working Normal,29-Apr-22
+414,L2 BLOCK,7545,CCTV,Venkateshappa,COMPLETED,Prasanth M,03-Mar-22,L2 Passenger Lift-G Fixed Camera Failed,Rectified Working Normal,13-Apr-22
+415,L2 BLOCK,7547,CCTV,Venkateshappa,COMPLETED,Prasanth M,03-Mar-22,L2 MLCP 4th Floor cam-4 Fixed Camera Failed,Rectified Working Normal,13-Apr-22
 416,E2 BLOCK,7551,FIRE EXTINGUISHER,Ananda M,OPEN,Praveen M P,10-Mar-22,fire extinguishers Reffiling pending PO has released,,
 417,E1 BLOCK,7553,FIRE EXTINGUISHER,Ananda M,COMPLETED,Praveen M P,10-Mar-22,fire extinguishers Reffiling pending PO has released,Extingshner refilled,15-Mar-22
 418,L6 BLOCK,7555,HYDRANT SYSTEM,Dinakar Raj D,OPEN,Praveen M P,10-Mar-22,Yard hydrant water leakage,,
-419,E2 BLOCK,7557,FIRE ALARM,Ananda M,COMPLETED,Jegathesh Johnson,11-Mar-22,"Fire Alarm Panel Enabled but Not Reset, Smoke Detector Ground Floor SD-32 Must Be Verified","Issue rectified on 17/Mar/22, now the system has normal condition only",29-Apr-22
+419,E2 BLOCK,7557,FIRE ALARM,Ananda M,COMPLETED,Jegathesh Johnson,11-Mar-22,"Fire Alarm Panel Enabled but Not Reset, Smoke Detector Ground Floor SD-32 Must Be Verified","Issue rectified on 17/Mar/22, now the system has normal condition only",27-Apr-22
 420,D4 BLOCK,7559,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,12-Mar-22,Jockey pump water not lifting,,
 421,L7 MLCP,7561,FIRE FIGHTING,Dinakar Raj D,COMPLETED,Praveen M P,15-Mar-22,Jockey pump coupling rubber bush got damaged,spider bush replaced,03-Apr-22
 422,E2 BLOCK,7563,CCTV,Ananda M,OPEN,Prasanth M,15-Mar-22,E2 Block CCTV Rack UPS not working,,
@@ -481,4 +481,4 @@ Offer has been shared for restoration. Awaiting PO.",25-Feb-22
 448,N1 BLOCK,7633,ACCESS CONTROL,Ananthanag,OPEN,Jegathesh Johnson,27-Apr-22,Ground floor LT room Access Control working,,
 449,N1 BLOCK,7635,ACCESS CONTROL,Ananthanag,OPEN,Jegathesh Johnson,27-Apr-22,Ground floor DG room Access Control working,,
 450,H2 BLOCK,7637,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,27-Apr-22,1st floor Hooters not working,"Team ill be visited to the block for checking the ,but client side not getting the proper permission for carry out the activity",29-Apr-22
-451,H2 BLOCK,7639,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,27-Apr-22,2nd floors hooter are not working t,"Team ill be visited to the block for checking the ,but client side not getting the proper permission for carry out the activity",29-Apr-22
+451,H2 BLOCK,7639,FIRE ALARM,Ranjith m,COMPLETED,Jegathesh Johnson,27-Apr-22,2nd floors hooter are not working it,"Team ill be visited to the block for checking the ,but client side not getting the proper permission for carry out the activity",29-Apr-22
