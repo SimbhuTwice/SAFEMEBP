@@ -1,5 +1,5 @@
 S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLAINT DESCRIPTION,RESOLUTION NOTES,Completed_on
-1,D3 BLOCK,6719,FIRE ALARM,Sudeep,Offer shared,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",Offer has been shared for floor affected areas and damaged devices. Waiting for PO.,24-Feb-22
+1,D3 BLOCK,6719,FIRE ALARM,Sudeep,Offer shared awaiting for PO,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.",Offer has been shared for floor affected areas and damaged devices. Waiting for PO.,24-Feb-22
 2,D3 BLOCK,6721,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,D3 basement hoses reel drum Handel boll valve required.,"Offer shared, waiting for po",24-Feb-22
 3,L5 BLOCK,6723,FIRE FIGHTING,Dinakar Raj D,COMPLETED,Praveen M P,24-Feb-22,Diesel engine pump Diesel outlet hose pipe leakage (pump room),"Meterial required, offer to be shared",08-Mar-22
 4,D3 BLOCK,6725,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Fire pump room test line valve got damage (water passing),"Material Required, Offer has been shared. Awaiting PO.",24-Feb-22
@@ -15,7 +15,7 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 Awaiting PO.",08-Mar-22
 11,H2 BLOCK,6739,FIRE FIGHTING,Ranjith m,COMPLETED,Praveen M P,24-Feb-22,UB sprinkler pump football leakage,Offer chaired waiting for po,11-Apr-22
 12,G3 BLOCK,6741,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,"Stair case #02, 7th, 8th & 10th floors speaker not working.","Our team has been checked to the speakers ,all are working good condition ",30-Mar-22
-13,D3 BLOCK,6743,FIRE ALARM,Sudeep,Offer shared,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.","Ground floor hooter and PA issue has been resolved.
+13,D3 BLOCK,6743,FIRE ALARM,Sudeep,Offer shared awaiting for PO,Jegathesh Johnson,24-Feb-22,"Ground floor & Basement Hooter, MCP Not working.","Ground floor hooter and PA issue has been resolved.
 Offer has been shared for replacing the floor affected devices and cables in basement. Awaiting for the PO",24-Feb-22
 14,G3 BLOCK,6745,PA TALK BACK,Balakrishna,COMPLETED,Jegathesh Johnson,24-Feb-22,"Stair case #03, 4th & 5th floors speaker not working.","Speaker damaged ,need to be change to the new speaker.",26-Feb-22
 15,G3 BLOCK,6747,FIRE ALARM,Balakrishna,OPEN,Jegathesh Johnson,24-Feb-22,FA system troubles need to be rectified.,,
@@ -70,7 +70,7 @@ Awaiting PO.",25-Feb-22
 61,E2 MLCP,6839,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,24-Feb-22,Jockey pump Foot valve leakage need to be rectify,,
 62,E2 MLCP,6841,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump Auto cut off need to be rectify,Issue observed to be due to reduced pump efficiency. Offer has been shared for servicing the pump. ,17-Mar-22
 63,E2 MLCP,6843,FIRE FIGHTING,Ananda M,COMPLETED,Praveen M P,24-Feb-22,Booster pump gland leakage need to be rectify,Issue resolved,26-Feb-22
-64,E2 MLCP,6845,FIRE ALARM,Ananda M,Offer shared,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,Offer shared,29-Apr-22
+64,E2 MLCP,6845,FIRE ALARM,Ananda M,Offer shared awaiting for PO,Jegathesh Johnson,24-Feb-22,Lift integrated need to be done with FAS panel,Offer shared,29-Apr-22
 65,E2 MLCP,6847,SPRINKLER SYSTEM,Ananda M,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to check,,
 66,G3 BLOCK,6849,SPRINKLER SYSTEM,Balakrishna,OPEN,Praveen M P,24-Feb-22,Sprinkler flow switch need to be check,,
 67,G3 BLOCK,6851,FIRE FIGHTING,Balakrishna,OPEN,Praveen M P,24-Feb-22,Fire DG B-check need to be done,,
@@ -142,7 +142,7 @@ Awaiting PO for replacing the switches, media converter and power adaptors.",25-
 117,D3 BLOCK,6951,FIRE FIGHTING,Sudeep,OPEN,Praveen M P,24-Feb-22,Fire hydrant shaft keys not available,,
 118,K BLOCK,6953,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,Fire FA system Troubles to be resolved.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
 119,D4 MLCP,6955,FIRE FIGHTING,Sudeep,COMPLETED,Praveen M P,24-Feb-22,Fire diesel engine diesel line leakage,Waiting for po,11-Mar-22
-120,L6 BLOCK,6957,FIRE ALARM,Dinakar Raj D,Offer shared,Jegathesh Johnson,24-Feb-22,Fire alarm system is in off condition (ground floor reception),,
+120,L6 BLOCK,6957,FIRE ALARM,Dinakar Raj D,Offer shared awaiting for PO,Jegathesh Johnson,24-Feb-22,Fire alarm system is in off condition (ground floor reception),,
 121,K BLOCK,6959,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,3rd floor Hooter not working need to be rectify.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
 122,K BLOCK,6961,FIRE ALARM,Nandakumar CR,COMPLETED,Jegathesh Johnson,24-Feb-22,3rd floor Hooter not working need to be rectify.,"Loop has been damaged in client during demolition activity, SAFE has been following up on the status of loop damage from day one of the activity. No support/ update on restoring the loops with demolition crew from Building Executives.",01-Mar-22
 123,L7 MLCP,6963,FIRE ALARM,Dinakar Raj D,OPEN,Jegathesh Johnson,24-Feb-22,System trouble to be rectify and reprogramming has to be done,,
