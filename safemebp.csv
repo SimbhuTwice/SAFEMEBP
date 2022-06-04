@@ -537,3 +537,8 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 522,E2 MLCP,7783,FIRE FIGHTING,Ananda M,OPEN,Praveen M P,02-06-22,All pumps foot valve need to be done,,
 523,G2 BLOCK,7787,FIRE FIGHTING,Satish,COMPLETED,Praveen M P,03-06-22,Jockey pump auto cut off not working,,
 524,E2 BLOCK,7789,FIRE ALARM,Ananda M,OPEN,Jegathesh Johnson,04-06-22,Flow switch is activited but not showing the correct location,,
+525,N1 BLOCK,7791,CCTV,Venkat,OPEN,Prasanth M,04-06-22,N1 Passenger Lift Camera (L2) Failed,,
+526,L2 BLOCK,7793,CCTV,Venkat,OPEN,Prasanth M,04-06-22,"L2 Passenger Lift- A, B, C, D, E, F, G & H- 08No's camera's are failed.",,
+527,L2 BLOCK,7795,CCTV,Venkat,OPEN,Prasanth M,04-06-22,L2 Terrace Service Lift Lobby camera failed,,
+528,N1 BLOCK,7797,CCTV,Venkat,OPEN,Prasanth M,04-06-22,N1 Passenger Lilft - L3 Camera is failed,,
+529,N1 BLOCK,7799,CCTV,Mano,OPEN,Prasanth M,04-06-22,"N1 Passenger Lift R1, L2 & L3 - 3Nos Cameras got failed.",,
