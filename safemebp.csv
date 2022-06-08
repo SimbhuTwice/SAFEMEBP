@@ -634,3 +634,4 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 619,G2 BLOCK,7981,FIRE ALARM,Satish,OPEN,Jegathesh Johnson,08-06-22,"Staircase #1, 5 No's (LB, UB, 1, 3, 5th floors) Hooter is not working",,
 620,G2 BLOCK,7983,PA TALK BACK,Satish,OPEN,Jegathesh Johnson,08-06-22,"Staircase #3, 5 No's (2, 3, 6, 7, 8th floors) Speaker is not working",,
 621,G2 BLOCK,7985,FIRE ALARM,Satish,OPEN,Jegathesh Johnson,08-06-22,"Staircase #3, 5 No's (GF, 1,3, 4, 5th floors) MCP is not working",,
+622,G3 BLOCK,7987,CCTV,Mano.c,OPEN,Prasanth M,08-06-22,G3 Staircase 1 camera Failed,,
