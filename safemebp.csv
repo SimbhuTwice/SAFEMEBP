@@ -355,7 +355,7 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 344,L3 BLOCK,7393,ACCESS CONTROL,Venkateshappa,OPEN,Prasanth M,02-03-22,Terrace Staircase # 3 Access Control Door not working,,
 345,L3 BLOCK,7395,ACCESS CONTROL,Venkateshappa,OPEN,Prasanth M,02-03-22,Terrace Service lift lobby #1 Access Control Door not working,,
 346,L3 BLOCK,7397,ACCESS CONTROL,Venkateshappa,OPEN,Prasanth M,02-03-22,Terrace Service lift lobby #2 Access Control Door not working,,
-347,H1 BLOCK,7399,FIRE ALARM,Ranjith m,OPEN,Jegathesh Johnson,02-03-22,Hooters not working in ground floor,Panel is down due to short ckt (no UPS supply),
+347,H1 BLOCK,7399,FIRE ALARM,Ranjith m,OFFER SHARED AWAITING PO,Jegathesh Johnson,02-03-22,Hooters not working in ground floor,Panel is down due to short ckt (no UPS supply),
 348,H1 BLOCK,7401,FIRE FIGHTING,Ranjith m,OFFER SHARED AWAITING PO,Praveen M P,02-03-22,Fire DG #2 fuel tank measurement pipe line need to be replace,,
 349,F2 BLOCK,7403,FIRE ALARM,Manjunath Rao,COMPLETED,Jegathesh Johnson,02-03-22,1 No. Smoke detector hanging @ near FAS room,work has been completed.,15-03-22
 350,F3 BLOCK,7405,SPRINKLER SYSTEM,Manjunath Rao,COMPLETED,Praveen M P,02-03-22,Sprinkler ICV #4 pressure gauge need to be replace,8 no's pressure gauge replaced,19-05-22
