@@ -737,3 +737,8 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 722,G2 BLOCK,8193,HYDRANT SYSTEM,Mohideen,OPEN,Praveen M P,23-06-22,Hydrant pump pressure gauge need to be replace,,
 723,L2 BLOCK,8197,HYDRANT SYSTEM,Venkateshappa,OPEN,Praveen M P,24-06-22,"Yard hydrant #9, spindle washer need to be replace",,
 724,K BLOCK,8199,CCTV,Venkat,OPEN,Prasanth M,25-06-22,K Block -06No's camera's are failed.,,
+725,F2 BLOCK,8201,FIRE ALARM,Manjunath rao N,OPEN,Jegathesh Johnson,25-06-22,All locations smoke detector need to be clean,,
+726,F3 BLOCK,8203,FIRE ALARM,Manjunath rao N,OPEN,Jegathesh Johnson,25-06-22,All locations smoke detector need to be clean,,
+727,F2 BLOCK,8205,FIRE FIGHTING,Manjunath rao N,OPEN,Praveen M P,25-06-22,All locations Valve need to be service,,
+728,F3 BLOCK,8207,FIRE FIGHTING,Manjunath rao N,OPEN,Praveen M P,25-06-22,All locations Valve need to be service,,
+729,COMMON AREA,8209,CCTV,Mano.c,OPEN,Prasanth M,25-06-22,"Gate-01,Gate-02 & Sky walk cameras Got failed ( total-27 cameras)",,
