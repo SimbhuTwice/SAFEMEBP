@@ -742,3 +742,6 @@ S No,BLOCK,TASK ID,SYSTEM TYPE ,CREATED BY,STATUS,RESPONSIBLE,RAISED DATE,COMPLA
 727,F2 BLOCK,8205,FIRE FIGHTING,Manjunath rao N,OPEN,Praveen M P,25-06-22,All locations Valve need to be service,,
 728,F3 BLOCK,8207,FIRE FIGHTING,Manjunath rao N,OPEN,Praveen M P,25-06-22,All locations Valve need to be service,,
 729,COMMON AREA,8209,CCTV,Mano.c,OPEN,Prasanth M,25-06-22,"Gate-01,Gate-02 & Sky walk cameras Got failed ( total-27 cameras)",,
+730,N1 BLOCK,8213,CCTV,Nazmul,OPEN,Prasanth M,27-06-22,N1 Passanger lift R5 Camera got failed,,
+731,F3 BLOCK,8215,CCTV,Mano.c,OPEN,Prasanth M,28-06-22,F3 B wing PL-12 camera got failed,,
+732,COMMON AREA,8217,CCTV,Babu naik,OPEN,Prasanth M,28-06-22,vidionetics softwere all PTZ cameras roteting issue,,
